@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_card">#161B22</color>
+
+    <!-- Green (Islamic) -->
+    <color name="green_primary">#1A7A4A</color>
+    <color name="green_light">#2ECC80</color>
+
+    <!-- Gold accent -->
+    <color name="gold">#C9A84C</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_muted">#8B949E</color>
+
+    <!-- Ring track -->
+    <color name="ring_track">#21262D</color>
+
+    <!-- Material theme required -->
+    <color name="purple_200">#1A7A4A</color>
+    <color name="purple_500">#1A7A4A</color>
+    <color name="purple_700">#145C38</color>
+    <color name="teal_200">#2ECC80</color>
+    <color name="teal_700">#1A7A4A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
